@@ -1,0 +1,14 @@
+# audio source & rendered outputs (regenerable / do not redistribute)
+song.mp3
+*.mp4
+
+# pipeline artifacts (regenerable)
+pv/features.npz
+pv/render.log
+pv/stills/
+pv/final_qa/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
